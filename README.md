@@ -1,2 +1,2 @@
 # tic-tac-toe-js
-Favaorite TicTacToe with JavaScript🐯
+Favourite TicTacToe with JavaScript🐯
